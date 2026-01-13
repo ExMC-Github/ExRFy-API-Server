@@ -43,7 +43,7 @@
 使用git工具命令
 
 ```
-git clone https://github.com/kamcdev/Jsoft_express_cabinet.git
+git clone https://github.com/ExMC-Github/ExRFy-API-Server.git
 ```
 
 或
