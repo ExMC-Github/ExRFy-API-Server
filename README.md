@@ -112,4 +112,18 @@ base64编解码类
 /decode_b64api?text=<内容>
 ```
 
+etb64编解码类
+
+6.etb64编码
+
+```
+/encode_etb64?text=<内容>
+```
+
+7.etb64解码
+
+```
+/decode_etb64?text=<内容>
+```
+
 待配置和测试完毕后，即可开放运行
