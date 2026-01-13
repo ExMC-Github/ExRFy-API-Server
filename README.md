@@ -64,7 +64,7 @@ git clone https://github.com/kamcdev/Jsoft_express_cabinet.git
 start webserver.exe
 ```
 
-在“蛋仔音频目录”输入储存音频文件的目录，在对应目录存放音频ogg文件，文件名均为1-814的纯数字
+在“命令行窗口”输入“set_eggypath ”+储存音频文件的目录，在对应目录存放音频ogg文件，文件名均为1-814(可自定义)的纯数字
 
 启动项目后端
 
